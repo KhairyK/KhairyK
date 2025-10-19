@@ -66,3 +66,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KhairyK/KhairyK/main/assets/space-line.gif" width="400"/>
 </p>
+
+![License](https://img.shields.io/github/license/KhairyK/sPHPin-LICENSE-Selector)
+
+![Stars](https://img.shields.io/github/stars/KhairyK/kyrt-framework?style=social)
+
+![NPM](https://img.shields.io/npm/v/kyrt-framework)
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fkyrt.my.id)
