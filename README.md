@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://kyrt.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-KYRT_Framework-00c8ff?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Visit-KYRT_CDN-00c8ff?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
